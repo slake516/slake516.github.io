@@ -1,0 +1,26 @@
+td {
+    font-style:italic;
+    font-weight:bold;
+    color:blue;
+}
+​
+.rating {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: lighter;
+    color: red;
+}
+​
+#idValue {
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bolder;
+    font-size: 50px;
+}
+h1 {
+    color:yellow;
+}
+p {
+    color:gray;
+}
+body {
+    background-color:black;
+}
